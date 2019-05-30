@@ -1,1 +1,2 @@
-^!d:: Run, notepad
+#SingleInstance, force
+^!a::RUN, notepaddd
